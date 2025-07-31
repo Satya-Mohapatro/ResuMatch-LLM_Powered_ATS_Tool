@@ -17,10 +17,6 @@ ResuMatch is an intelligent, AI-driven resume analysis web app that leverages Go
 ---
 
 ## 📷 Screenshots
-
-> *(Add your screenshots here)*  
-Example:
-
 ![Home Screen](SS1.png)
 ![Analysis Report](SS2.png)
 
